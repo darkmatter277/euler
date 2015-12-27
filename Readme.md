@@ -1,1 +1,1 @@
-http://rosalind.info bioInformatics problems
+https://projecteuler.net problems to learn python and programming. 
